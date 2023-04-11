@@ -10,5 +10,5 @@ This app tracks your head leaning forward using webcam and creates a small alert
 ## 🔷 System requirements
 Windows 10  
 <div align="right">
-  <b><a href="# 'Posture corrector'">🔝 Back To Top</a></b>
+  <b><a href="#Posture-corrector">🔝 Back To Top</a></b>
 </div>
