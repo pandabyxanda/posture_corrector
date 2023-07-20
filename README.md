@@ -1,5 +1,5 @@
 # Posture corrector
-Just checking description on main
+
 
 
 ## 🔷 Features
